@@ -232,5 +232,6 @@
 	"activation_support_link": "Contact support",
 	"activation_loading": "Activating...",
 	"activation_thanks": "Thank you for your purchase!",
-	"activation_success": "Succesfully activated!"
+	"activation_success": "Succesfully activated!",
+	"test": "test"
 }
